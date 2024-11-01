@@ -97,9 +97,9 @@
             "PV-7"
         ]
     },
-    "PV-4@SideStoryStage": {
+    "PV-5@SideStoryStage": {
         "text": [
-            "PV-4"
+            "PV-5"
         ]
     },
     "ClickChapter": {
@@ -149,5 +149,20 @@
             50
         ],
         "action": "ClickSelf"
+    },
+    "InfrastOperListTabSkillUnClicked": {
+        "roi": [ 645, 0, 635, 77 ]
+    },
+    "InfrastOperListTabWorkStatusUnClicked": {
+        "roi": [ 645, 0, 635, 77 ]
+    },
+    "InfrastOperListTabMoodDoubleClick": {
+        "roi": [ 645, 0, 635, 77 ]
+    },
+    "InfrastOperListTabMoodDoubleClickWhenUnclicked": {
+        "roi": [ 645, 0, 635, 77 ]
+    },
+    "InfrastOperListTabMoodClick": {
+        "roi": [ 645, 0, 635, 77 ]
     }
 }
